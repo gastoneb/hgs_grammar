@@ -23,7 +23,7 @@
 		}
 	 	{	name : 'variable.parameter.grok'
 			comment : 'Tab stops like $1, $2...'
-			match : '\ssolute|boundary condition'
+			match : '\ssolute|boundary\scondition'
 		}
 		{	name : 'storage.grok'
 			comment : 'Tab stops like $1, $2...'

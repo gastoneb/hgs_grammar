@@ -21,10 +21,10 @@
 			comment : 'Tab stops like $1, $2...'
 			match : 'units|^porous\smedia|^surface\n|fracture|\sdual\s|^channel|^et'
 		}
-	 	{	name : 'variable.parameter.grok'
-			comment : 'Tab stops like $1, $2...'
-			match : '\ssolute|^boundary'
-		}
+	 	# {	name : 'variable.parameter.grok'
+		# 	comment : 'Tab stops like $1, $2...'
+		# 	match : '\ssolute|^boundary'
+		# }
 		{	name : 'storage.grok'
 			comment : 'Tab stops like $1, $2...'
 			match : 'txt|dat|mprops|etprops|fprops|dprops|oprops'

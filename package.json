@@ -1,6 +1,6 @@
 {
   "name": "language-grok",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "HydroGeoSphere's grok preprocessor",
   "keywords": [],
   "repository": "https://github.com/gastoneb/hgs_grammar",

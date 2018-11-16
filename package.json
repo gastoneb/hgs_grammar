@@ -1,7 +1,7 @@
 {
   "name": "language-grok",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "HydroGeoSphere's grok preprocessor",
   "keywords": [],
   "repository": "https://github.com/gastoneb/hgs_grammar",
   "license": "MIT",

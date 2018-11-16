@@ -4,7 +4,7 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "repository": "https://github.com/gastoneb/hgs_grammar/language-grok",
+  "repository": "https://github.com/gastoneb/hgs_grammar/tree/atom/language-grok",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -1,4 +1,4 @@
-'scopename': 'source.grok'
+'scopeName': 'source.grok'
 'name': 'grok'
 'fileTypes': [
         'grok'
@@ -56,3 +56,4 @@
             'patterns': ( { 'match': '\\\s*\n' } )
         }
     ]
+    
